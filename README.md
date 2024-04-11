@@ -13,7 +13,7 @@ Name...................:  DontNeg
 Age....................:  18 years old
 Mostly programming in..:  Java
 Currently in...........:  Computer Science Major
-Intetests..............:  Programming, Math, and Game Development
+Interests..............:  Programming, Math, and Game Development
 Socials................:
   Discord..............:  @dontneg (645829262267383818)
   Youtube..............:  @dontneg
@@ -29,7 +29,7 @@ CPU.................: AMD Ryzen 7 5800X 8-Core Processor
 GPU.................: Nvidia GeForce GTX 1080
 MEMORY..............: 64.0 GB (2x32GB) T-Force Delta RGB DDR4 3800 MHz
 BOARD...............: ASUS ROG Strix B450-F II Gaming
-OS..................: Windows 10
+OS..................: Windows 10 Pro
 Drives..............:
   Local Disk........: 1TB WD Blue SN750 NVMe SSD (C:)
   Extra Stuff.......: 500GB Kingston A400 2.5" SATA SSD (O:)
