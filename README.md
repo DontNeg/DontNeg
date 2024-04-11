@@ -1,10 +1,11 @@
+# About Me
 <div>
     <img align="left" height="260vh" src="https://imgur.com/Gg70N1U">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
   
 
-# <div align="center">About Me
+
 
 ```
 Name...................:  Luke (DontNeg)
