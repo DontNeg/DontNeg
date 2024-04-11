@@ -27,7 +27,7 @@ Socials................:
 ```
 CPU.................: AMD Ryzen 7 5800X 8-Core Processor
 GPU.................: Nvidia GeForce GTX 1080
-MEMORY..............: 64.0 GB (2x32GB) T-Force Delta RGB DDR4 3600 (Overclocked to 3800MHz)
+MEMORY..............: 64.0 GB (2x32GB) T-Force Delta RGB DDR4 3800
 BOARD...............: ASUS ROG Strix B450-F II Gaming
 OS..................: Windows 10
 Drives..............:
