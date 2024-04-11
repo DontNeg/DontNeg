@@ -89,13 +89,6 @@ Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science,
 </td></tr></table>  
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dontneg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 <br/>  
 
 ## 👨‍💻 Github Stats  
