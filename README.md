@@ -30,7 +30,7 @@ OS..................: Windows 10
 Drives..............:
   Local Disk........: 1TB WD Blue SN750 NVMe SSD (C:)
   Extra Stuff..........: 500GB Kingston A400 2.5" SATA SSD (O:)
-</div>  
+```</div>  
   
 
 # <div align="center">In-Depth Personal Description
