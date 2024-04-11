@@ -15,11 +15,11 @@ Socials................:
   Discord..............: @dontneg (645829262267383818)
   Youtube..............: @dontneg
   GitHub...............: @DontNeg
-```</div>  
+```
+</div>  
   
 
 # <div align="center">🖥️ My Workstation
-
 
 ```
 CPU.................: AMD Ryzen 7 5800X 8-Core Processor
@@ -30,7 +30,8 @@ OS..................: Windows 10
 Drives..............:
   Local Disk........: 1TB WD Blue SN750 NVMe SSD (C:)
   Extra Stuff..........: 500GB Kingston A400 2.5" SATA SSD (O:)
-```</div>  
+```
+</div>  
   
 
 # <div align="center">In-Depth Personal Description
