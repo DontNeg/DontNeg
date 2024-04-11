@@ -1,4 +1,4 @@
-# 📝 About Me
+# <div align="center">📝 About Me
 <div>
     <img align="left" height="260vh" src="https://imgur.com/JzJh5hv.gif">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
