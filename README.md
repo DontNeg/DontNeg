@@ -9,7 +9,7 @@
 
 
 ```
-Name...................:  Luke (DontNeg)
+Name...................:  DontNeg
 Age....................:  18 years old
 Mostly programming in..:  Java
 Currently in...........:  Computer Science Major
