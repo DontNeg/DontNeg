@@ -39,7 +39,7 @@ Drives..............:
 
 # <div align="center">📙 In-Depth Personal Description
 
-Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed 5 personal projects and over 20 school-related projects. Here on GitHub, you'll find all of my personal projects, all of which are free to use. Please don't be shy when it comes to opening an issue for one of my repositories, as it helps me improve and helps you receive a better experience.
+Hello, I'm DontNeg. I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed 5 personal projects and over 20 school-related projects. Here on GitHub, you'll find all of my personal projects, all of which are free to use. Please don't be shy when it comes to opening an issue for one of my repositories, as it helps me improve and helps you receive a better experience.
 </div>  
   
 
