@@ -15,9 +15,9 @@ Mostly programming in..:  Java
 Currently in...........:  Computer Science Major
 Intetests..............:  Programming, Math, and Game Development
 Socials................:
-  Discord..............: @dontneg (645829262267383818)
-  Youtube..............: @dontneg
-  GitHub...............: @DontNeg
+  Discord..............:  @dontneg (645829262267383818)
+  Youtube..............:  @dontneg
+  GitHub...............:  @DontNeg
 ```
 </div>  
   
