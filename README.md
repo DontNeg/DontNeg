@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://imgur.com/33L5CH5" align="center" height="360" width="640" />
-</div>  
+<div>
+    <img align="left" height="260vh" src="https://imgur.com/Gg70N1U">
+    <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+</div>
   
 
 # <div align="center">About Me
@@ -34,7 +35,7 @@ Drives..............:
 </div>  
   
 
-# <div align="center">In-Depth Personal Description
+# <div align="center"> s📙 In-Depth Personal Description
 
 Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed 5 personal projects and over 20 school-related projects. Here on GitHub, you'll find all of my personal projects, all of which are free to use. Please don't be shy when it comes to opening an issue for one of my repositories, as it helps me improve and helps you receive a better experience.
 </div>  
@@ -74,7 +75,7 @@ Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science,
 
 
 
-### DevOps  
+### Products / Software / OS  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
