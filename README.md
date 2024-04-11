@@ -98,11 +98,10 @@ Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science,
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dontneg&&style=flat-square" align="center" />
-</div>  
-  
+## 👨‍💻 Github Stats  
 
-<br/>  
+<div>
+<img align="left" height="158vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontNeg&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<img align="left" height="146vh" src="https://github-readme-stats.vercel.app/api?username=DontNeg&theme=dracula&hide_border=false&include_all_commits=false&count_private=true">
 
-<br />
+</div>
