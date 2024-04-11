@@ -89,7 +89,6 @@ Hello, I'm Luke, aka. DontNeg. I am extremely passionate about computer science,
 </td></tr></table>  
 
 <br/>  
-<br/>  
 
 ## 👨‍💻 Github Stats  
 
