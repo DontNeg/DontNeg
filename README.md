@@ -13,7 +13,7 @@
 Name...................:  DontNeg
 Age....................:  18 years old
 Mostly programming in..:  Java
-Currently in...........:  Computer Science Major
+Currently in...........:  Computer Science
 Interests..............:  Programming, Math, and Game Development
 Socials................:
   Discord..............:  @dontneg (645829262267383818)
