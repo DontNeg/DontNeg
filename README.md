@@ -69,7 +69,7 @@ Hello, I'm DontNeg. I am extremely passionate about computer science, math, and 
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://imgur.com/Sr8fD0P.jpg" alt="Windows" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://imgur.com/LiRuNsB.png" alt="Photoshop" height="50" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/photoshop-icon-1024x999-xhts0syq.png" alt="Photoshop" height="50" /></a>
 </div>
 
 </td></tr></table>  
