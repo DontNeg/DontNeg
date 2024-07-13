@@ -10,15 +10,15 @@
 
 
 ```
-Name...................:  DontNeg
+Name...................:  Lukian Mokahel
 Age....................:  18 years old
 Mostly programming in..:  Java
-Currently in...........:  Computer Science Major
+Currently attending....:  Las Positas College
+Major..................:  Computer Science
 Interests..............:  Programming, Math, and Game Development
 Socials................:
-  Discord..............:  @dontneg (645829262267383818)
-  Youtube..............:  @dontneg
-  GitHub...............:  @DontNeg
+  LinkedIn.............:  @lmokahel
+  GitHub...............:  @LMokahel
 ```
 </div>  
   
@@ -40,7 +40,7 @@ Drives..............:
 
 # <div align="center">📙 Personal Description and General Information
 
-Hello, I'm DontNeg. I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed 6 personal projects and over 20 school-related projects. Here on GitHub, you'll find all of my personal projects, all of which are free to use. Please don't be shy when it comes to opening an issue for one of my repositories, as it helps me improve and helps you receive a better experience.
+Hello, I'm Lukian Mokahel. I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed six personal projects and over 20 school-related projects. Here on GitHub, you'll find my personal projects, all of which are free to use. If you come across any sort of non-intended "feature", please open an issue inside the offending repository as it helps me improve my programming ability and your overall experience with my software.
 </div>  
   
 
@@ -53,7 +53,7 @@ Hello, I'm DontNeg. I am extremely passionate about computer science, math, and 
 
 
 
-### Backend  
+### Languages 
 <div align="center">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
