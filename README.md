@@ -1,7 +1,7 @@
 # <div align="center">📝 About Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dontneg)
 <div>
-    <img align="left" height="260vh" src="https://media.discordapp.net/attachments/1003556821509885953/1261694835413221408/VHS.gif?ex=6693e461&is=669292e1&hm=12319b166a9416d288ca1257b14bf91fdb7f7356c9eeb83948676ce0c424c544&=&width=550&height=309">
+    <img align="left" height="260vh" src="https://cdn.discordapp.com/attachments/1003556821509885953/1261694835413221408/VHS.gif?ex=6693e461&is=669292e1&hm=12319b166a9416d288ca1257b14bf91fdb7f7356c9eeb83948676ce0c424c544&">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
   
