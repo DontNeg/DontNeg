@@ -1,7 +1,7 @@
 # <div align="center">📝 About Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dontneg)
 <div>
-    <img align="left" height="260vh" src="https://i.imgur.com/oV7n6uK.gif">
+    <img align="left" height="260vh" width="100vh" src="https://i.imgur.com/oV7n6uK.gif">
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
   
