@@ -13,7 +13,6 @@
 Name...................:  Lukian Mokahel
 Age....................:  18 years old
 Mostly programming in..:  Java
-Currently attending....:  Las Positas College
 Major..................:  Computer Science
 Interests..............:  Programming, Math, and Game Development
 Socials................:
