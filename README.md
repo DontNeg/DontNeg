@@ -10,14 +10,11 @@
 
 
 ```
-Name...................:  Lukian Mokahel
-Age....................:  18 years old
 Mostly programming in..:  Java
 Major..................:  Computer Science
 Interests..............:  Programming, Math, and Game Development
 Socials................:
-  LinkedIn.............:  @lmokahel
-  GitHub...............:  @LMokahel
+  Discord..............:  @dontnegq
 ```
 </div>  
   
