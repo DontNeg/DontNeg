@@ -14,7 +14,7 @@ Mostly programming in..:  Java
 Major..................:  Computer Science
 Interests..............:  Programming, Math, and Game Development
 Socials................:
-  Discord..............:  @dontnegq
+  Discord..............:  @dontneg
 ```
 </div>  
   
