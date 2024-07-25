@@ -62,7 +62,7 @@ I am extremely passionate about computer science, math, and game development. I 
 
 ### Products / OS  
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0" >
     <tr>
         <td style="border:none">
             <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/6qDhRLI.png" alt="Windows" height="50" /></a>
