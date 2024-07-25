@@ -64,9 +64,11 @@ I am extremely passionate about computer science, math, and game development. I 
 <div align="center">
 <table>
     <tr>
-        <th><a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/6qDhRLI.png" alt="Windows" height="50" /></a></th>  
-        <th><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a></th>
-        <th><a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a></th>
+        <td style="border: none;">
+            <th><a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/6qDhRLI.png" alt="Windows" height="50" /></a></th>  
+            <th><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a></th>
+            <th><a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a></th>
+        </td>
     </tr>
 </table>
 
