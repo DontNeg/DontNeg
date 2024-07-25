@@ -62,9 +62,14 @@ I am extremely passionate about computer science, math, and game development. I 
 
 ### Products / OS  
 <div align="center">
-<a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/6qDhRLI.png" alt="Windows" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
+<table>
+    <tr>
+        <th><a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/6qDhRLI.png" alt="Windows" height="50" /></a></th>  
+        <th><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a></th>
+        <th><a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a></th>
+    </tr>
+</table>
+
 <br>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/photoshop-icon-1024x999-xhts0syq.png" alt="Photoshop" height="50" /></a>
 <a href="https://create.roblox.com/landing" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/p3aXMb6.png" alt="Roblox Studio" height="50" /></a>
