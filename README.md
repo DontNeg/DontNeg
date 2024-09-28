@@ -2,7 +2,7 @@
 <div>
     <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
-  I am extremely passionate about computer science, math, and game development. I started learning how to write code in 2021, and so far I have completed six personal projects and over 20 school-related projects. Here on GitHub, you'll find my personal projects. If you come across any sort of non-intended "feature", please open an issue inside the offending repository as it helps me improve my programming ability and your overall experience with my software.
+  I am extremely passionate about computer science, math, and game development. Here on GitHub, you'll find my projects. If you come across any non-intended "feature", please open an issue inside the offending repository as it helps me improve my programming ability and your overall experience with my software.
 
 <br/><br/>
 
